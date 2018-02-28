@@ -34,7 +34,7 @@ public class Rock extends InanimateObject
     }
     
     /**
-     * Increases slope so ball speeds up
+     * Increases slope so ball speeds up. I never actually use this.
      * 
      * int amt amount of slope increase
      */
