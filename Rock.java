@@ -1,7 +1,7 @@
 import java.awt.Color;
 
 /**
- * Creates a rock
+ * Creates a rock object
  *
  * @author Beth Fineberg
  * @version 1.0
