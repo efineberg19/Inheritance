@@ -2,7 +2,7 @@ import java.awt.Color;
 import java.awt.*;
 
 /**
- * Creates any object
+ * Framework for any object
  *
  * @author Beth Fineberg
  * @version 1.0
